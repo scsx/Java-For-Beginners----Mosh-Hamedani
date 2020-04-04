@@ -47,12 +47,4 @@ https://www.youtube.com/watch?v=eIrMbAQSU34
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=eIrMbAQSU34&amp;t=8607s" dir="auto">2:23:27</a><span dir="auto" class="style-scope yt-formatted-string"> Solution: Mortgage Calculator 
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=eIrMbAQSU34&amp;t=8908s" dir="auto">2:28:28</a><span dir="auto" class="style-scope yt-formatted-string"> Control Flow Summary 
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=eIrMbAQSU34&amp;t=8965s" dir="auto">2:29:25</a><span dir="auto" class="style-scope yt-formatted-string"> Clean Coding
-
-</span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/results?search_query=%23Programming" dir="auto">#Programming</a><span dir="auto" class="style-scope yt-formatted-string">
-
-CONNECT 
-
-Courses: </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/redirect?q=http%3A%2F%2Fcodewithmosh.com&amp;event=video_description&amp;v=eIrMbAQSU34&amp;redir_token=ha7jNH4SrbdjP-u4RjTYuLy2lIR8MTU4NjA5MTU4NUAxNTg2MDA1MTg1" rel="nofollow" target="_blank" dir="auto">http://codewithmosh.com</a><span dir="auto" class="style-scope yt-formatted-string">
-Blog: </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/redirect?q=http%3A%2F%2Fprogrammingwithmosh.com&amp;event=video_description&amp;v=eIrMbAQSU34&amp;redir_token=ha7jNH4SrbdjP-u4RjTYuLy2lIR8MTU4NjA5MTU4NUAxNTg2MDA1MTg1" rel="nofollow" target="_blank" dir="auto">http://programmingwithmosh.com</a><span dir="auto" class="style-scope yt-formatted-string">
-Facebook: </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/redirect?q=https%3A%2F%2Fwww.facebook.com%2Fprogrammingwithmosh%2F&amp;event=video_description&amp;v=eIrMbAQSU34&amp;redir_token=ha7jNH4SrbdjP-u4RjTYuLy2lIR8MTU4NjA5MTU4NUAxNTg2MDA1MTg1" rel="nofollow" target="_blank" dir="auto">https://www.facebook.com/programmingw...</a><span dir="auto" class="style-scope yt-formatted-string">
-Twitter: </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/redirect?q=https%3A%2F%2Ftwitter.com%2Fmoshhamedani&amp;event=video_description&amp;v=eIrMbAQSU34&amp;redir_token=ha7jNH4SrbdjP-u4RjTYuLy2lIR8MTU4NjA5MTU4NUAxNTg2MDA1MTg1" rel="nofollow" target="_blank" dir="auto">https://twitter.com/moshhamedani</a></yt-formatted-string>
+</yt-formatted-string>
