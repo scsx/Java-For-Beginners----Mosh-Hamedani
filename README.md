@@ -3,15 +3,7 @@
 https://www.youtube.com/watch?v=eIrMbAQSU34
 
 ## TABLE OF CONTENTS 
-<yt-formatted-string class="content style-scope ytd-video-secondary-info-renderer" force-default-style="" split-lines=""><span dir="auto" class="style-scope yt-formatted-string">Java tutorial for beginners - Learn Java, the language behind millions of apps and websites. 
-🔥Get the full course for $49 (reg price $147) - LIMITED TIME: </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/redirect?q=http%3A%2F%2Fbit.ly%2F2tKoy8C&amp;event=video_description&amp;v=eIrMbAQSU34&amp;redir_token=ha7jNH4SrbdjP-u4RjTYuLy2lIR8MTU4NjA5MTU4NUAxNTg2MDA1MTg1" rel="nofollow" target="_blank" dir="auto">http://bit.ly/2tKoy8C</a><span dir="auto" class="style-scope yt-formatted-string">
-👍Subscribe for more Java tutorials like this: </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/redirect?q=https%3A%2F%2Fgoo.gl%2F6PYaGF&amp;event=video_description&amp;v=eIrMbAQSU34&amp;redir_token=ha7jNH4SrbdjP-u4RjTYuLy2lIR8MTU4NjA5MTU4NUAxNTg2MDA1MTg1" rel="nofollow" target="_blank" dir="auto">https://goo.gl/6PYaGF</a><span dir="auto" class="style-scope yt-formatted-string">
-
-📕Get My FREE </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/results?search_query=%23Java" dir="auto">#Java</a><span dir="auto" class="style-scope yt-formatted-string"> Cheat Sheet:
-</span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/redirect?q=http%3A%2F%2Fbit.ly%2F2JNlQnw&amp;event=video_description&amp;v=eIrMbAQSU34&amp;redir_token=ha7jNH4SrbdjP-u4RjTYuLy2lIR8MTU4NjA5MTU4NUAxNTg2MDA1MTg1" rel="nofollow" target="_blank" dir="auto">http://bit.ly/2JNlQnw</a><span dir="auto" class="style-scope yt-formatted-string">
-
-TABLE OF CONTENTS 
-
+<yt-formatted-string class="content style-scope ytd-video-secondary-info-renderer" force-default-style="" split-lines="">
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=eIrMbAQSU34&amp;t=0s" dir="auto">0:00:00</a><span dir="auto" class="style-scope yt-formatted-string"> Introduction 
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=eIrMbAQSU34&amp;t=106s" dir="auto">0:01:46</a><span dir="auto" class="style-scope yt-formatted-string"> Installing Java
 </span><a class="yt-simple-endpoint style-scope yt-formatted-string" spellcheck="false" href="/watch?v=eIrMbAQSU34&amp;t=239s" dir="auto">0:03:59</a><span dir="auto" class="style-scope yt-formatted-string"> Anatomy of a Java Program 
